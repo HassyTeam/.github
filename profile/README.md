@@ -4,4 +4,4 @@
 
 ## Our biggest projects:
 
-- [OpenGDER](https://github.com/HassyTeam/OpenGDER) - An open source Geometry Dash video & image renderer that uses objects to represent details.
+- [OpenGDER](https://github.com/HassyTeam/OpenGDER) - An FOSS Geometry Dash video & image renderer that uses objects to represent details.
