@@ -6,6 +6,5 @@
 - Hassunaama: [hassunaama@hassyteam.com](mailto:hassunaama@hassyteam.com)
 - xilliam: [xilliam@hassyteam.com](mailto:xilliam@hassyteam.com)
 <br>
-
 ## Our ~~biggest~~ projects:
 Check the pinned repos!
