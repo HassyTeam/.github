@@ -8,4 +8,4 @@
 <br>
 
 ## Our ~~biggest~~ projects:
-⌄⌄⌄⌄⌄⌄⌄⌄⌄⌄⌄ CHECK THE PINS ⌄⌄⌄⌄⌄⌄⌄⌄⌄⌄⌄
+Check the pinned repos!
