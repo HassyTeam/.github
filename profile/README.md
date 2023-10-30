@@ -3,6 +3,8 @@
 <p align="center">We are a small developer group based in Finland, creaing projects like demos and other random things</p>
 
 ## Contact list
+
+- Everyone in the team: [hey@hassyteam.com](mailto:hey@hassyteam.com)
 - Hassunaama: [hassunaama@hassyteam.com](mailto:hassunaama@hassyteam.com)
 - xilliam: [xilliam@hassyteam.com](mailto:xilliam@hassyteam.com)
 
