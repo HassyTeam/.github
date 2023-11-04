@@ -2,7 +2,7 @@
 <p align="center"><b>Hassembly Demo Team™</b></p>
 <p align="center">We are a small developer group based in Finland, creaing projects like demos and other random things</p>
 
-[Our discord server](https://dsc.gg/hassyteam]
+## [Our discord server](https://dsc.gg/hassyteam)
 
 ## Contact list
 
