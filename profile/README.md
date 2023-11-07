@@ -6,7 +6,7 @@
 
 ## Contact list
 
-- Everyone in the team: [hey@hassyteam.com](mailto:hey@hassyteam.com)
+- Everyone in the contact team: [hey@hassyteam.com](mailto:hey@hassyteam.com)
 - Hassunaama: [hassunaama@hassyteam.com](mailto:hassunaama@hassyteam.com)
 - xilliam: [xilliam@hassyteam.com](mailto:xilliam@hassyteam.com)
 
