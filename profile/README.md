@@ -6,12 +6,7 @@
 
 ## Contact list
 
-- Everyone in the contact team: [hey@hassyteam.com](mailto:hey@hassyteam.com)
-- Hassunaama: [hassunaama@hassyteam.com](mailto:hassunaama@hassyteam.com)
-- xilliam: [xilliam@hassyteam.com](mailto:xilliam@hassyteam.com)
-- earlgray: [earlgray@hassyteam.com](mailto:earlgray@hassyteam.com)
-- BanskuDansku/Daniel: [daniel@hassyteam.com](mailto:daniel@hassyteam.com)
-- Antti: [antti@hassyteam.com](mailto:antti@hassyteam.com)
+- everyone: [hey@assyt.fi](mailto:hey@assyt.fi)
 
 ## Our ~~biggest~~ projects:
 Check the pinned repos!
