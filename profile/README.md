@@ -1,8 +1,6 @@
 <h1 align="center">Hassy Team™</h1>
 <p align="center"><b>Hassembly Demo Team™</b></p>
-<p align="center">We are a small developer group based in Finland, creaing projects like demos and other random things</p>
-
-## [Our discord server](https://dsc.gg/hassyteam)
+<p align="center">We are a small <s>demogroup</s> (friend group) based in Finland, creaing basically anything that comes to mind</p>
 
 ## Contact list
 
